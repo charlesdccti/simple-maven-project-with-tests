@@ -22,24 +22,24 @@
  * THE SOFTWARE.
  */
 
-package test;
+// package test;
 
-import org.junit.Test;
-import static org.junit.Assert.assertTrue;
-
-
-//public class OtherTest extends Base {
-public class OtherTest {
+// import org.junit.Test;
+// import static org.junit.Assert.assertTrue;
 
 
-//     @Test public void mytest() {
-//         run();
-//     }
+// //public class OtherTest extends Base {
+// public class OtherTest {
+
+
+// //     @Test public void mytest() {
+// //         run();
+// //     }
     
-     @Test
-     public void isEmptyTest() {
-         assertTrue(isEmpty(null));
-         assertTrue(isEmpty(""));
-     }
+//      @Test
+//      public void isEmptyTest() {
+//          assertTrue(isEmpty(null));
+//          assertTrue(isEmpty(""));
+//      }
 
-}
+// }
